@@ -1,1 +1,3 @@
-git add takes the changes to staging(which is a halfway to the repo) and git commit adds these changes to the actual package to be sent via git push
+git add: Değişiklikleri staging alanına alır.
+git commit: Staged değişiklikleri yerel commit geçmişine kaydeder.
+git push: Yerel commit’leri GitHub’a gönderir.
