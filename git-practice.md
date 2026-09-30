@@ -1,1 +1,1 @@
-Staging is where you test the product before going live with it.
+Staging is where you use git add to stage the commit.
