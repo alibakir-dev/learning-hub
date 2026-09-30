@@ -1,1 +1,1 @@
-Staging is where you use git add to stage the commit.
+git add takes the changes to staging(which is a halfway to the repo) and git commit adds these changes to the actual package to be sent via git push
