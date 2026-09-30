@@ -1,0 +1,1 @@
+Staging is where you test the product before going live with it.
